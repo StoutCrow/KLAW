@@ -1,0 +1,28 @@
+nolfyr_2 = {
+	name = Arthyr #IV
+	dynasty = dynn_nolfyr
+	martial = 11
+	diplomacy = 13
+	intrigue = 8
+	stewardship = 13
+	learning = 13
+	prowess = 11
+	religion = catholic
+	culture = anglo_saxon
+	trait = honest
+	trait = just
+	trait = gregarious
+	trait = diligent
+	trait = intellect_good_2
+	trait = education_martial_4
+	sexuality = heterosexual
+	1030.1.1 = {
+		birth = yes
+	}
+	1066.10.14 = {
+		death = {
+			death_reason = death_battle
+			killer = 140
+		}
+	}
+}
